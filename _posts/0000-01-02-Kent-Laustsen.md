@@ -2,5 +2,5 @@
 Layout: slide
 title: Velkommen
 ---
-Min side
+Min side / page
 Brug venstre pil for at gå tilbage.
